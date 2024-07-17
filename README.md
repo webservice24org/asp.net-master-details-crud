@@ -4,19 +4,19 @@ This project is a Master-Details CRUD application built with ASP.NET Core MVC, E
 # In this project for Insert and Update Student Data i used Stored Procedure. 
 
 ## Features
--- ASP.NET Core MVC framework
--- Entity Framework Core 8.0.6 for data access
--- jQuery and Ajax for asynchronous operations
--- Bootstrap for responsive design
--- Getting Started
--- Prerequisites
--- .NET SDK 6.0 or later
--- Visual Studio 2022 or later / Visual Studio Code
--- SQL Server
+- ASP.NET Core MVC framework
+- Entity Framework Core 8.0.6 for data access
+- jQuery and Ajax for asynchronous operations
+- Bootstrap for responsive design
+- Getting Started
+- Prerequisites
+- .NET SDK 6.0 or later
+- Visual Studio 2022 or later / Visual Studio Code
+- SQL Server
 
 ## Installation
 <strong> Clone the repository:</strong>
--- Run this command in Terminal or Gitbash!
+- Run this command in Terminal or Gitbash!
  git clone https://github.com/webservice24org/asp.net-master-details-crud
 
 Open the project in Visual Studio:
