@@ -1,4 +1,4 @@
-Master-Details CRUD Application
+## Master-Details CRUD Application
 This project is a Master-Details CRUD application built with ASP.NET Core MVC, Entity Framework Core 8.0.6, and jQuery Ajax. It demonstrates how to perform Create, Read, Update, and Delete operations in a master-details relationship using modern web technologies.
 
 Features
