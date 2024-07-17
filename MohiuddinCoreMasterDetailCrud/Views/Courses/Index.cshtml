@@ -1,0 +1,54 @@
+﻿@model MohiuddinCoreMasterDetailCrud.Models.Course
+
+@{
+    ViewData["Title"] = "Courses";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="card shadow-lg bg-body-tertiary">
+            <div class="card-header">
+                <h2 class="float-start">Course List</h2>
+                <button type="button" id="addCourseBtn" class="float-end btn btn-success" data-bs-toggle="modal" data-bs-target="#CoursetModal">
+                    Add Course
+                </button>
+            </div>
+            <div class="card-body">
+                <div id="CourseSection">
+                    
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="CoursetModal" tabindex="-1" aria-labelledby="CoursetModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="CoursetModalLabel"></h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <input type="hidden" id="CourseId" value="0" />
+                <div class="mb-2">
+                    <label for="CourseName" class="mb-1">Course Name</label>
+                    <input type="text" id="CourseName" class="form-control" placeholder="Course Name" />
+                </div>
+                
+            </div>
+            <div class="modal-footer">
+                <button type="button" id="save" class="btn btn-primary" onclick="Create()">Insert</button>
+                <button type="button" id="update" class="btn btn-primary" onclick="Update()" style="display:none;">Update</button>
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/js/site.js"></script>

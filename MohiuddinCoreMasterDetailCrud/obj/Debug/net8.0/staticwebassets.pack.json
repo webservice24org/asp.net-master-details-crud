@@ -1,0 +1,441 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MohiuddinCoreMasterDetailCrud.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MohiuddinCoreMasterDetailCrud.bundle.scp.css"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\0907022a-cd9d-42f8-b7ef-932746b7f201_OIP.jpg",
+      "PackagePath": "staticwebassets\\Images\\0907022a-cd9d-42f8-b7ef-932746b7f201_OIP.jpg"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\0a74339d-5581-40bf-91f0-ce92e4a73af9_130772243_104176614915812_4541589997616101450_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\0a74339d-5581-40bf-91f0-ce92e4a73af9_130772243_104176614915812_4541589997616101450_n.jpg"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\159008a9-9a76-4bdd-8b3f-b5df8fb09730_OIP (1).jpg",
+      "PackagePath": "staticwebassets\\Images\\159008a9-9a76-4bdd-8b3f-b5df8fb09730_OIP (1).jpg"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\276469d0-37f1-4ef0-ae51-669723f468c6_130772243_104176614915812_4541589997616101450_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\276469d0-37f1-4ef0-ae51-669723f468c6_130772243_104176614915812_4541589997616101450_n.jpg"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\3a470110-e4a8-4477-9763-71ff2f8d0260_130772243_104176614915812_4541589997616101450_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\3a470110-e4a8-4477-9763-71ff2f8d0260_130772243_104176614915812_4541589997616101450_n.jpg"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\50357f45-2975-43d7-b181-787000a2dcd4_130772243_104176614915812_4541589997616101450_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\50357f45-2975-43d7-b181-787000a2dcd4_130772243_104176614915812_4541589997616101450_n.jpg"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\537c3948-71f3-442b-b476-510cb1a3416d_pant.jpg",
+      "PackagePath": "staticwebassets\\Images\\537c3948-71f3-442b-b476-510cb1a3416d_pant.jpg"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\59286390-d71f-45ac-8e0d-aefdefab6352_OIP (1).jpg",
+      "PackagePath": "staticwebassets\\Images\\59286390-d71f-45ac-8e0d-aefdefab6352_OIP (1).jpg"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\5bba1cd2-6870-470a-9d85-9b039fce7a69_shirt.jpg",
+      "PackagePath": "staticwebassets\\Images\\5bba1cd2-6870-470a-9d85-9b039fce7a69_shirt.jpg"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\5bff5803-ee80-4ac8-a774-57020de7e31b_130772243_104176614915812_4541589997616101450_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\5bff5803-ee80-4ac8-a774-57020de7e31b_130772243_104176614915812_4541589997616101450_n.jpg"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\6a7955eb-5c35-4c96-b5a4-baa5b142c88d_arl.png",
+      "PackagePath": "staticwebassets\\Images\\6a7955eb-5c35-4c96-b5a4-baa5b142c88d_arl.png"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\7ce9b210-8141-4a40-9fe8-dee5cfc232df_OIP (1).jpg",
+      "PackagePath": "staticwebassets\\Images\\7ce9b210-8141-4a40-9fe8-dee5cfc232df_OIP (1).jpg"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\8131b393-015e-4b1f-a533-fdbaaeef55c2_130772243_104176614915812_4541589997616101450_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\8131b393-015e-4b1f-a533-fdbaaeef55c2_130772243_104176614915812_4541589997616101450_n.jpg"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\93597ddc-499f-4c37-8c67-c14e3d2d1723_130772243_104176614915812_4541589997616101450_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\93597ddc-499f-4c37-8c67-c14e3d2d1723_130772243_104176614915812_4541589997616101450_n.jpg"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\9933ab72-14eb-481b-94b8-fa32843f76a6_R.jpg",
+      "PackagePath": "staticwebassets\\Images\\9933ab72-14eb-481b-94b8-fa32843f76a6_R.jpg"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\99ac8557-01f8-4886-ae62-22016a6a2b37_pexels-karolina-grabowska-4041392.jpg",
+      "PackagePath": "staticwebassets\\Images\\99ac8557-01f8-4886-ae62-22016a6a2b37_pexels-karolina-grabowska-4041392.jpg"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\aaa3c019-030f-41e1-94fb-6d9944bf6309_130772243_104176614915812_4541589997616101450_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\aaa3c019-030f-41e1-94fb-6d9944bf6309_130772243_104176614915812_4541589997616101450_n.jpg"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\ab8631b9-7df3-4671-90d2-dd057b68a38d_130772243_104176614915812_4541589997616101450_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\ab8631b9-7df3-4671-90d2-dd057b68a38d_130772243_104176614915812_4541589997616101450_n.jpg"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\b5acdf24-b528-499a-84cd-64ab0f05c4c3_OIP (1).jpg",
+      "PackagePath": "staticwebassets\\Images\\b5acdf24-b528-499a-84cd-64ab0f05c4c3_OIP (1).jpg"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\b7de6162-fe62-44b6-8a56-db37ffae0222_130772243_104176614915812_4541589997616101450_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\b7de6162-fe62-44b6-8a56-db37ffae0222_130772243_104176614915812_4541589997616101450_n.jpg"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\bf4be82c-cda6-4939-b33d-74c383b7eeed_OIP.jpg",
+      "PackagePath": "staticwebassets\\Images\\bf4be82c-cda6-4939-b33d-74c383b7eeed_OIP.jpg"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\c3207c63-f0b6-4d18-ac2d-b7873e09ffd4_OIP (1).jpg",
+      "PackagePath": "staticwebassets\\Images\\c3207c63-f0b6-4d18-ac2d-b7873e09ffd4_OIP (1).jpg"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\c8c7a68b-4821-449a-83ce-9a58071b57d9_Blue White Simple Professional Call to action LinkedIn Post.png",
+      "PackagePath": "staticwebassets\\Images\\c8c7a68b-4821-449a-83ce-9a58071b57d9_Blue White Simple Professional Call to action LinkedIn Post.png"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\d8dedc72-ab21-4e8e-b9bc-abd4ed6f3595_Blue White Simple Professional Call to action LinkedIn Post.png",
+      "PackagePath": "staticwebassets\\Images\\d8dedc72-ab21-4e8e-b9bc-abd4ed6f3595_Blue White Simple Professional Call to action LinkedIn Post.png"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\d92d335f-d594-44d4-9e49-05bb6e4ddc93_OIP (1).jpg",
+      "PackagePath": "staticwebassets\\Images\\d92d335f-d594-44d4-9e49-05bb6e4ddc93_OIP (1).jpg"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\df6a7dfe-2399-4baa-8742-84ebc051c428_130772243_104176614915812_4541589997616101450_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\df6a7dfe-2399-4baa-8742-84ebc051c428_130772243_104176614915812_4541589997616101450_n.jpg"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\ebcce2e9-cf04-462f-a33c-9f25d18d1a42_OIP (1).jpg",
+      "PackagePath": "staticwebassets\\Images\\ebcce2e9-cf04-462f-a33c-9f25d18d1a42_OIP (1).jpg"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\Images\\f2aa988f-41b0-41cd-b790-595f5e1a4189_arl.png",
+      "PackagePath": "staticwebassets\\Images\\f2aa988f-41b0-41cd-b790-595f5e1a4189_arl.png"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\js\\students.js",
+      "PackagePath": "staticwebassets\\js\\students.js"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\datatable\\css\\datatable-bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\css\\datatable-bootstrap.css"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\datatable\\css\\datatable-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\css\\datatable-bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\datatable\\css\\datatable.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\css\\datatable.css"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\datatable\\css\\datatable.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\css\\datatable.min.css"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\datatable\\img\\sort_asc.png",
+      "PackagePath": "staticwebassets\\lib\\datatable\\img\\sort_asc.png"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\datatable\\img\\sort_both.png",
+      "PackagePath": "staticwebassets\\lib\\datatable\\img\\sort_both.png"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\datatable\\img\\sort_desc.png",
+      "PackagePath": "staticwebassets\\lib\\datatable\\img\\sort_desc.png"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\datatable\\js\\datatable.jquery.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\js\\datatable.jquery.js"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\datatable\\js\\datatable.jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\js\\datatable.jquery.min.js"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\datatable\\js\\datatable.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\js\\datatable.js"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\datatable\\js\\datatable.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\js\\datatable.min.js"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\sweetalert2\\sweetalert2.all.min.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.all.min.js"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\toastr.js\\toastr.min.css",
+      "PackagePath": "staticwebassets\\lib\\toastr.js\\toastr.min.css"
+    },
+    {
+      "Id": "G:\\MVC_Core\\Mohiuddin_1280860\\MohiuddinCoreMasterDetailCrud\\MohiuddinCoreMasterDetailCrud\\wwwroot\\lib\\toastr.js\\toastr.min.js",
+      "PackagePath": "staticwebassets\\lib\\toastr.js\\toastr.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MohiuddinCoreMasterDetailCrud.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MohiuddinCoreMasterDetailCrud.props",
+      "PackagePath": "build\\MohiuddinCoreMasterDetailCrud.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MohiuddinCoreMasterDetailCrud.props",
+      "PackagePath": "buildMultiTargeting\\MohiuddinCoreMasterDetailCrud.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MohiuddinCoreMasterDetailCrud.props",
+      "PackagePath": "buildTransitive\\MohiuddinCoreMasterDetailCrud.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

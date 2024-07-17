@@ -1,0 +1,30 @@
+﻿@model List<MohiuddinCoreMasterDetailCrud.Models.ViewModels.ModuleViewModel>
+
+<table class="table table-bordered" id="modulesTable">
+    <thead>
+        <tr>
+            <th>Module Name</th>
+            <th>Duration</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Count > 0)
+        {
+            for (int i = 0; i < Model.Count; i++)
+            {
+                <tr>
+                    <td>
+                        <input type="text" name="Modules[@i].ModuleName" class="form-control" value="@Model[i].ModuleName" />
+                    </td>
+                    <td>
+                        <input type="text" name="Modules[@i].Duration" class="form-control" value="@Model[i].Duration" />
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-danger removeModuleBtn" onclick="RemoveModule(this)">Remove</button>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
