@@ -39,12 +39,17 @@ Press F5 or click the Start button in Visual Studio to run the application.
 The application should open in your default web browser.
 
 # Images View
+
+# Insert Course
  <img src="images-view/1.png" alt="Course Management Screenshot" style="width:100%; max-width:600px;">
    <br />
+ # Insert Master and Details Data
 <img src="images-view/2.png" alt="Course Management Screenshot" style="width:100%; max-width:600px;">
 <br />
+# Edit Master and Details Data
 <img src="images-view/3.png" alt="Course Management Screenshot" style="width:100%; max-width:600px;">
 <br />
+# Details View Master and Details Data
 <img src="images-view/4.png" alt="Course Management Screenshot" style="width:100%; max-width:600px;">
 <br />
 
