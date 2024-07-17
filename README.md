@@ -42,14 +42,16 @@ The application should open in your default web browser.
 
 # Insert Course
  <img src="images-view/1.png" alt="Course Management Screenshot" style="width:100%; max-width:600px;">
-   <br />
- # Insert Master and Details Data
+  
+## Insert Master and Details Data
 <img src="images-view/2.png" alt="Course Management Screenshot" style="width:100%; max-width:600px;">
-<br />
+
 # Edit Master and Details Data
 <img src="images-view/3.png" alt="Course Management Screenshot" style="width:100%; max-width:600px;">
-<br />
-# Details View Master and Details Data
+
+
+## Details View Master and Details Data
+
 <img src="images-view/4.png" alt="Course Management Screenshot" style="width:100%; max-width:600px;">
 <br />
 
