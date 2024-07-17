@@ -38,6 +38,16 @@ Setup the database:
 Press F5 or click the Start button in Visual Studio to run the application.
 The application should open in your default web browser.
 
+# Images View
+ <img src="screenshots/1.png" alt="Course Management Screenshot" style="width:100%; max-width:600px;">
+   <br />
+<img src="screenshots/2.png" alt="Course Management Screenshot" style="width:100%; max-width:600px;">
+<br />
+<img src="screenshots/3.png" alt="Course Management Screenshot" style="width:100%; max-width:600px;">
+<br />
+<img src="screenshots/4.png" alt="Course Management Screenshot" style="width:100%; max-width:600px;">
+<br />
+
 ## Using the application:
 
 You can now perform CRUD operations on the master-details entities.
